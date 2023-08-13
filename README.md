@@ -5,9 +5,9 @@ The app was built utilizing React , html , css.
 
 ## Installation
 
-1.Download the app from Github 
-2.Open the app with IDE
-3 Use the node package manager to install dependencies.
+### 1.Download the app from Github 
+### 2.Open the app with IDE
+### 3 Use the node package manager to install dependencies.
 ```bash
 npm install
 ```
