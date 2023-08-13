@@ -13,7 +13,7 @@ The app was built utilizing React , html , css.
 ```bash
 npm install
 ```
-4. Use the node package manager to start the React application.
+### 4. Use the node package manager to start the React application.
 ```bash
 npm start
 ```
