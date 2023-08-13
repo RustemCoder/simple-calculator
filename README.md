@@ -1,7 +1,7 @@
 # Simple Calculator
 
 This is a simple calculator which allows you to plus , substract , multiply , divide, reset input field , reset result. 
-The app was built utilizing React , html , css.
+The app was built utilizing <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> , html , css.
 
 ## Installation
 
